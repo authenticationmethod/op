@@ -1,9 +1,10 @@
 {
-	{
-	"key1":"zuB3tUqigW",
-},{"key2":"Y$yEFfi3cM",
-  },{	"key3":"mdn(:jbgcg",
-    },{"key4":"7[[8ul^C+c",
-      },{"key5":"ZJG;OLTx&x",
-	},{"key6":"!S{PC?0eX}"}
+"key" : [
+  "zuB3tUqigW",
+  "Y$yEFfi3cM",
+  "mdn(:jbgcg",
+  "7[[8ul^C+c",
+  "ZJG;OLTx&x",
+  "!S{PC?0eX}"
+	]
 }
